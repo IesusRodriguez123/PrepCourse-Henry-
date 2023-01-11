@@ -1,2 +1,2 @@
-# PrepCourse-Henry-
-This is a repositorio of modulo two of the herny courses
+ESTE PROYECTO ES UNA PRUEBA DE COMO CREAR UN REPOSITORIO Y CREALO AL GTBUSH.
+
